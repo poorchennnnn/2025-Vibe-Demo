@@ -1,0 +1,5 @@
+{
+  "name": "DressCODE",
+  "description": "An AI-powered fashion stylist that provides curated outfit suggestions based on weather, occasion, and style preferences.",
+  "requestFramePermissions": []
+}
